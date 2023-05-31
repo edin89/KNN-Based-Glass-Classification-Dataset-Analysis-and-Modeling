@@ -1,1 +1,3 @@
 # KNN-Based-Glass-Classification-Dataset-Analysis-and-Modeling
+
+This project focuses on the analysis and modeling of the "Glass" dataset. The dataset contains information about different types of glass and their chemical composition. Tasks include exploratory data analysis (EDA), feature analysis, correlation analysis, data visualization, and building predictive models. The goal is to classify the types of glass based on their features, using machine learning algorithms such as decision trees, random forests, or support vector machines. The project aims to gain insights from the dataset and develop accurate models for glass type prediction.
